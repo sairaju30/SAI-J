@@ -1,3 +1,3 @@
-git_course demo
+git_course demiiiiiio
 
 create an avatar for user
